@@ -1,6 +1,6 @@
 {
   "name": "@mihanizm56/webpack-module-watcher",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "webpack utils",
   "license": "MIT",
   "main": "lib/index.js",
